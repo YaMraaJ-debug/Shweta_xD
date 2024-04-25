@@ -1,6 +1,6 @@
 # **HEROKU DEPLOY BUTTON**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/YaMraaJ-debug/Shweta_xD/tree/main)
+[![Deploy on Railway](https://railway.app/button.svg)](https://gitlab.com/YaMraaJ_xD/Z-Mirror/-/tree/rail_deploy?ref_type=heads)
 
 
 
